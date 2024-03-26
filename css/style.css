@@ -830,6 +830,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .portfolio #portfolio-flters li.filter-active {
     background: #010f25;
     color: #ffffff;
+    border-color: white;
 }
 
 .portfolio #portfolio-flters li:last-child {
