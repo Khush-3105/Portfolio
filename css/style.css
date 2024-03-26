@@ -1248,6 +1248,7 @@ body::-webkit-scrollbar {
 }
 form input, form textarea{
     width: 100%;
+    height: 85px;
     border: 0;
     outline: none;
     background: #262626;
