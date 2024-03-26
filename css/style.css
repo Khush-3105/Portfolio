@@ -1034,7 +1034,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact {
     position: relative;
-    padding: 80px 0 30px 0;
+    padding: 80px 0 0 0;
 }
 
 .contact .contact-info p {
@@ -1171,7 +1171,7 @@ body::-webkit-scrollbar {
     display: block;
     text-align: center;
     margin-top: -40px;
-    width: 55%;
+    width: 100%;
     margin-left: 0px;
     background: #fdc500;
     transition: transform 0.5s;
