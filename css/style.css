@@ -1183,7 +1183,7 @@ body::-webkit-scrollbar {
 .btn{
     display: block;
     margin: 50px auto;
-    width: fit-content;
+    width: 100%;
     border: 1px solid #fdc500;
     padding: 14px 50px;
     border-radius: 6px;
